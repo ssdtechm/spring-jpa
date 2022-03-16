@@ -11,6 +11,10 @@ public class SpringJpaApplication {
 		System.out.println("hi");
 		System.out.println("hi");
 		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
 		SpringApplication.run(SpringJpaApplication.class, args);
 	}
 
