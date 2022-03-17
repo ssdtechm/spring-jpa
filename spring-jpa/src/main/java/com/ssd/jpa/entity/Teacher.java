@@ -28,6 +28,8 @@ public class Teacher {
     private Long teacherId;
     private String firstName;
     private String lastName;
+    
+    private String h1b;
 
     /*@OneToMany(
             cascade = CascadeType.ALL
