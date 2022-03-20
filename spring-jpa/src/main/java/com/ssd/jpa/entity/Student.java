@@ -31,5 +31,6 @@ public class Student {
     private String emailId;
     private long mobileNo;
     private String address;
+    private long pincode;
 
 }
