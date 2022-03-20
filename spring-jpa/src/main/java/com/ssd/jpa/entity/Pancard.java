@@ -6,6 +6,8 @@ public class Pancard {
 	private String name;
 	private String add;
 	
+	private int number;
+	
 	
 
 }
