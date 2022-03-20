@@ -14,7 +14,7 @@ public class Person {
 	private String add;
 	
 	private Pancard pan;
-	private Long mobileNo;
+	private Integer mobileNo;
 	
 
 }
