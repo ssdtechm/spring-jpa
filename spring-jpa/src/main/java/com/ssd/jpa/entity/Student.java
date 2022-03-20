@@ -29,5 +29,8 @@ public class Student {
     private String firstName;
     private String lastName;
     private String emailId;
+    private long mobileNo;
+    private String address;
+    private long pincode;
 
 }
