@@ -29,6 +29,8 @@ public class Course {
     private Long courseId;
     private String title;
     private Integer credit;
+    
+    private Integer duration;
 
     @OneToOne(
             mappedBy = "course"
